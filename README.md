@@ -17,5 +17,8 @@ Connection:
 ![TOP view](https://github.com/TestDuino/PowerMosfetTiny/blob/main/Images/PowerMosfetTidy_TopView.png)
 ![SIDE view](https://github.com/TestDuino/PowerMosfetTiny/blob/main/Images/PowerMosfetTidy_SideView.png)
 
+# Contributions
+If you find any bugs, have suggestions, or would like to contribute to the development of this project, feel free to contact me or submit a pull request (PR). Your contributions are greatly appreciated, and I am always open to feedback and collaboration. Thank you for helping to improve this project!
+
 ### Links
 SQJQ160E-T1 datasheet | https://www.vishay.com/docs/63059/sqjq160e.pdf
